@@ -1,0 +1,19 @@
+/* client/src/components/BookList.css */
+.book-list {
+  margin-top: 2rem;
+}
+
+.book-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.book-list th, .book-list td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.book-list th {
+  background-color: #f2f2f2;
+}
